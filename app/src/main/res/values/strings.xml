@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Orders</string>
+    <string name="type_product_name">Type product name</string>
+    <string name="type_price_product">Type price of product</string>
+    <string name="type_stock_product">Type stock product</string>
+    <string name="add_product">Add product</string>
+    <string name="produc_stock">Produc Stock</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_name">Produc Name</string>
+    <string name="save_product">Save product</string>
+    <string name="save_title">save_title</string>
+    <string name="type_title">type title</string>
+    <string name="type_from_date">type from date</string>
+    <string name="type_to_date_title">type to date title</string>
+    <string name="type_to_date">type_to_date</string>
+</resources>
